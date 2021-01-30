@@ -1,0 +1,4 @@
+la 30.1.2021 13.44.22 +0200
+Local change to file5b
+
+Conflict again ... now try out straight pull without fetch first.

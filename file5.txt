@@ -1,2 +1,4 @@
 la 30.1.2021 12.59.49 +0200
 Local change to file5
+Some change in GitHub in BR-5. We know this conflicts ...
+... but now peace again.

@@ -6,5 +6,7 @@ Some change in GitHub in BR-5. We know this conflicts ...
 A change
 
 Some change. Conflict if merge.
-
 Even more changes ...
+Change in github
+
+Accept everything

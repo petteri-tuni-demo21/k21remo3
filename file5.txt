@@ -4,3 +4,5 @@ Some change in GitHub in BR-5. We know this conflicts ...
 ... but now peace again.
 
 A change
+
+Change in github
